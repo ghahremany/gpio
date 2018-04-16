@@ -17,6 +17,7 @@
 if you want to install GPIO CONNECT on yor raspberry pi you cat install it by two way but you require elementry things similar raspbian os
 iso file 
 
-1.clone project by  `git clone https://github.com/ghahremany/gpio` after clone this project on public HTML  directory
-2. Import gpio.sql on my sql 
-3. 
+1. install webserwer(apache or enginx ...)  php php-GD for example `apt-get update && apt-get install apache2 php php-gd
+2. clone project by  `git clone https://github.com/ghahremany/gpio` after clone this project on public HTML  directory
+3. Import gpio.sql on my sql 
+4. 
